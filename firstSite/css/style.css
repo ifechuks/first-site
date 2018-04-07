@@ -1,0 +1,112 @@
+body{
+	margin: 0
+}
+.header{
+background-color: black;
+padding: 20px;	
+}
+
+#nav{
+	display: inline-block;
+	width: 50%
+
+}
+#nav ul{
+	list-style-type: none;
+	color: deeppink;
+}
+#nav ul li{
+	display: inline-block;
+	
+	  
+}
+#nav ul li:hover{
+	background-color: white;
+}
+#nav ul li a{
+	color: deeppink;
+	text-decoration: none;
+
+}
+.logo{
+	display: inline-block;
+	width: 40%
+}
+
+.logo img{
+	width: 150px;
+}
+.footer{
+	background-color:grey;
+	color: transparent;
+	padding: 40px
+}
+.links{
+	width: 30%;
+	display: inline-block;
+
+}
+.links a{
+color: deeppink;
+text-decoration: none;
+}
+.search{
+	width: 30%;
+	display: inline-block;
+
+}
+.search a{
+	display: block;
+	text-decoration: none;
+}
+.socials{
+	width: 39%;
+	display: inline-block;
+
+}
+.socials a{
+	text-decoration: none;
+	display: block;
+}
+.div{
+	padding: 70px;
+	text-align: center;
+}
+.welcome{
+display: inline-block;
+width: 70%;
+padding: 5px;
+border: 5px solid #fde;
+}
+.vision{
+display: inline-block;
+width: 30%;
+vertical-align: top;
+height: 10rem;
+border: 6px solid #fde;
+}
+.mission{
+display: inline-block;
+width: 40%;
+border: 6px solid #fde;
+height: 10rem;
+vertical-align: top;
+}
+.home{
+	display: inline-block;
+	width: 50%;
+	padding: 40px;
+	border-color: pink;
+	border: green 2px solid;
+}
+.home img{
+width: 40%;
+}
+.online{
+display: inline-block;
+padding: 40px;
+text-align: right;
+border: red 3px solid;
+top: 20;
+
+}
